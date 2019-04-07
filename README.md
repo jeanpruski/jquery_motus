@@ -1,6 +1,3 @@
-# jquery_motus
-Copie du jeu télévisé Motus réalisé en jquery.
-
 # Motus_jquery
 
 **Motus_jqueryr** est une application jquery se voulant le plus proche du [jeu télévisé](https://fr.wikipedia.org/wiki/Motus_(jeu_t%C3%A9l%C3%A9vis%C3%A9)).
